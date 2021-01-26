@@ -1,7 +1,10 @@
 
 ### 👋 Hi there 
 
-A bad developer who's strong in typescript.
+### 📋 About
+
+I'm a bad developer who's strong in typescript.
+You can probably find more [here](https://pxseu.com/bio).
 
 ### 🦊Fox
 
