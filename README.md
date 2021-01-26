@@ -3,7 +3,7 @@
 
 ### 📋 About
 
-I'm a bad developer who's strong in typescript.
+I'm a bad developer who's strong in typescript. \
 You can probably find more [here](https://pxseu.com/bio).
 
 ### 🦊Fox
@@ -12,7 +12,7 @@ You can probably find more [here](https://pxseu.com/bio).
 
 ### 📱 Contact
 
-[🌐 website](https://www.pxseu.com)\
+[🌐 website](https://www.pxseu.com) \
 [📧 email](mailto:contact.pxseu@gmail.com)
 
 ### 📊 Some stats of me
