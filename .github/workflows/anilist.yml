@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: AniList readme workflow
+        uses: pxseu/anilist-readme@v1.0.0
+        with:
+          user_id: 889921
