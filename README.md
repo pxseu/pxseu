@@ -26,6 +26,13 @@ You can probably find more [here](https://pxseu.com/about).
   <summary>🌸 My recent AniList activity</summary>
   
 <!-- ANILIST_ACTIVITY:start -->
+
+-   📺 Watched episode 3 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (02:35, 17 July 2021)
+-   📖 Read chapter 13 of [Chainsaw Man](https://anilist.co/manga/105778) (01:58, 17 July 2021)
+-   📺 Watched episode 71 - 86 of [Naruto: Shippuden](https://anilist.co/anime/1735) (21:47, 16 July 2021)
+-   📖 Read chapter 1 - 12 of [Chainsaw Man](https://anilist.co/manga/105778) (04:03, 16 July 2021)
+-   📺 Watched episode 65 - 70 of [Naruto: Shippuden](https://anilist.co/anime/1735) (23:23, 15 July 2021)
+
 <!-- ANILIST_ACTIVITY:end -->
 </details>
 
