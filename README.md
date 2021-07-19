@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Remake Our Life!](https://anilist.co/anime/114065) (20:56, 19 July 2021)
 -   📺 Watched episode 15 of [Tokyo Revengers](https://anilist.co/anime/120120) (18:08, 18 July 2021)
 -   📺 Watched episode 3 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (17:38, 18 July 2021)
 -   📺 Watched episode 3 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (02:35, 17 July 2021)
 -   📖 Read chapter 13 of [Chainsaw Man](https://anilist.co/manga/105778) (01:58, 17 July 2021)
--   📺 Watched episode 71 - 86 of [Naruto: Shippuden](https://anilist.co/anime/1735) (21:47, 16 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
