@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Remake Our Life!](https://anilist.co/anime/114065) (18:15, 24 July 2021)
+-   📺 Watched episode 3 of [The aquatope on white sand](https://anilist.co/anime/128545) (17:54, 24 July 2021)
+-   📺 Watched episode 4 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (17:27, 24 July 2021)
 -   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (06:55, 24 July 2021)
 -   📺 Watched episode 92 - 94 of [Naruto: Shippuden](https://anilist.co/anime/1735) (16:27, 22 July 2021)
--   📺 Watched episode 2 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (15:20, 22 July 2021)
--   📺 Watched episode 3 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (15:01, 22 July 2021)
--   📺 Watched episode 89 - 91 of [Naruto: Shippuden](https://anilist.co/anime/1735) (21:40, 21 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
