@@ -31,7 +31,7 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read None of [None](https://anilist.co/manga/118584) (06:55, 24 July 2021)
+-   📖 Plans to read [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (06:55, 24 July 2021)
 -   📺 Watched episode 92 - 94 of [Naruto: Shippuden](https://anilist.co/anime/1735) (16:27, 22 July 2021)
 -   📺 Watched episode 2 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (15:20, 22 July 2021)
 -   📺 Watched episode 3 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (15:01, 22 July 2021)
