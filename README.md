@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [RE-MAIN](https://anilist.co/anime/130549) (10:06, 31 July 2021)
 -   📺 Watched episode 97 - 100 of [Naruto: Shippuden](https://anilist.co/anime/1735) (16:06, 29 July 2021)
 -   📺 Watched episode 4 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (17:46, 28 July 2021)
 -   📺 Watched episode 95 - 96 of [Naruto: Shippuden](https://anilist.co/anime/1735) (19:40, 27 July 2021)
 -   📺 Watched episode 4 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (06:49, 26 July 2021)
--   📺 Watched episode 16 of [Tokyo Revengers](https://anilist.co/anime/120120) (08:22, 25 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
