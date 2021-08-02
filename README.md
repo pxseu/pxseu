@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (08:34, 02 August 2021)
 -   📺 Watched episode 17 of [Tokyo Revengers](https://anilist.co/anime/120120) (19:51, 01 August 2021)
 -   📺 Watched episode 5 of [Remake Our Life!](https://anilist.co/anime/114065) (19:28, 01 August 2021)
 -   📺 Watched episode 5 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (11:00, 31 July 2021)
 -   📺 Watched episode 4 of [The aquatope on white sand](https://anilist.co/anime/128545) (10:59, 31 July 2021)
--   📺 Watched episode 3 of [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (10:59, 31 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
