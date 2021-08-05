@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (10:00, 05 August 2021)
 -   📺 Watched episode 5 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (09:17, 02 August 2021)
 -   📺 Watched episode 1 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (08:34, 02 August 2021)
 -   📺 Watched episode 17 of [Tokyo Revengers](https://anilist.co/anime/120120) (19:51, 01 August 2021)
 -   📺 Watched episode 5 of [Remake Our Life!](https://anilist.co/anime/114065) (19:28, 01 August 2021)
--   📺 Watched episode 5 of [Girlfriend, Girlfriend](https://anilist.co/anime/126192) (11:00, 31 July 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
