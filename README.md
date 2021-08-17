@@ -31,7 +31,7 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 1 - 4 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (20:29, 17 August 2021)
+-   📺 Rewatched episode 1 - 6 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (21:36, 17 August 2021)
 -   📺 Watched episode 7 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (17:57, 16 August 2021)
 -   📺 Watched episode 3 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (22:31, 14 August 2021)
 -   📺 Watched episode 19 of [Tokyo Revengers](https://anilist.co/anime/120120) (22:31, 14 August 2021)
