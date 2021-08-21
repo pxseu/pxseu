@@ -31,7 +31,7 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [ERASED](https://anilist.co/anime/21234) (09:44, 21 August 2021)
+-   📺 Watched episode 1 - 8 of [ERASED](https://anilist.co/anime/21234) (15:39, 21 August 2021)
 -   📺 Completed [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (16:26, 20 August 2021)
 -   📺 Rewatched episode 11 - 12 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (16:26, 20 August 2021)
 -   📺 Rewatched episode 7 - 10 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (22:36, 19 August 2021)
