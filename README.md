@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 20 of [Tokyo Revengers](https://anilist.co/anime/120120) (22:46, 21 August 2021)
 -   📺 Completed [ERASED](https://anilist.co/anime/21234) (20:48, 21 August 2021)
 -   📺 Watched episode 1 - 11 of [ERASED](https://anilist.co/anime/21234) (20:48, 21 August 2021)
 -   📺 Completed [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (16:26, 20 August 2021)
 -   📺 Rewatched episode 11 - 12 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (16:26, 20 August 2021)
--   📺 Rewatched episode 7 - 10 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (22:36, 19 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
