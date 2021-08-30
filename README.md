@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (09:03, 30 August 2021)
+-   📺 Watched episode 21 of [Tokyo Revengers](https://anilist.co/anime/120120) (08:51, 30 August 2021)
 -   📺 Watched episode 102 - 104 of [Naruto: Shippuden](https://anilist.co/anime/1735) (17:27, 27 August 2021)
 -   📺 Watched episode 8 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (14:48, 25 August 2021)
 -   📺 Completed [Evangelion: 1.0 You Are (Not) Alone](https://anilist.co/anime/2759) (09:49, 25 August 2021)
--   📺 Completed [Neon Genesis Evangelion: The End of Evangelion](https://anilist.co/anime/32) (08:22, 25 August 2021)
--   📺 Watched episode 20 of [Tokyo Revengers](https://anilist.co/anime/120120) (22:46, 21 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
