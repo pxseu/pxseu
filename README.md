@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (17:01, 01 September 2021)
+-   📺 Watched episode 9 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (17:00, 01 September 2021)
 -   📺 Watched episode 9 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (10:36, 01 September 2021)
 -   📺 Watched episode 8 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (09:03, 30 August 2021)
 -   📺 Watched episode 21 of [Tokyo Revengers](https://anilist.co/anime/120120) (08:51, 30 August 2021)
--   📺 Watched episode 102 - 104 of [Naruto: Shippuden](https://anilist.co/anime/1735) (17:27, 27 August 2021)
--   📺 Watched episode 8 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (14:48, 25 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
