@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (17:29, 05 September 2021)
 -   📺 Watched episode 22 of [Tokyo Revengers](https://anilist.co/anime/120120) (21:51, 04 September 2021)
 -   📺 Watched episode 5 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (21:50, 04 September 2021)
 -   📖 Read chapter 35 of [My Dress-Up Darling](https://anilist.co/manga/101583) (12:23, 02 September 2021)
 -   📺 Watched episode 4 of [The Great Jahy Will Not Be Defeated!](https://anilist.co/anime/132456) (17:01, 01 September 2021)
--   📺 Watched episode 9 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (17:00, 01 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
