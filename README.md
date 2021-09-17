@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 - 48 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:35, 17 September 2021)
 -   📖 Read chapter 1 - 40 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (10:53, 16 September 2021)
 -   📺 Watched episode 113 - 115 of [Naruto: Shippuden](https://anilist.co/anime/1735) (20:03, 14 September 2021)
 -   📺 Watched episode 108 - 112 of [Naruto: Shippuden](https://anilist.co/anime/1735) (07:47, 13 September 2021)
 -   📺 Watched episode 105 - 107 of [Naruto: Shippuden](https://anilist.co/anime/1735) (21:08, 11 September 2021)
--   📺 Watched episode 23 of [Tokyo Revengers](https://anilist.co/anime/120120) (20:17, 11 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
