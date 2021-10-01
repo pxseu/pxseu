@@ -42,6 +42,6 @@ You can probably find more [here](https://pxseu.com/about).
 
 
 
-![](https://komarev.com/ghpvc/?username=pxseu&color=ff69b4)
+![Hits](https://hits.link/hits?url=https://github.com/pxseu&label=views&bgRight=ff69b4)
 
 
