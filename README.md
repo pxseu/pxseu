@@ -31,7 +31,7 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 - 19 of [Chainsaw Man](https://anilist.co/manga/105778) (10:15, 01 October 2021)
+-   📖 Read chapter 17 - 24 of [Chainsaw Man](https://anilist.co/manga/105778) (10:34, 01 October 2021)
 -   📖 Read chapter 15 - 16 of [Chainsaw Man](https://anilist.co/manga/105778) (07:14, 21 September 2021)
 -   📺 Completed [Tokyo Revengers](https://anilist.co/anime/120120) (21:40, 19 September 2021)
 -   📖 Read chapter 14 of [Chainsaw Man](https://anilist.co/manga/105778) (15:40, 18 September 2021)
