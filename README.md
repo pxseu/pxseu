@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/manga/114527) (09:52, 12 October 2021)
 -   📺 Completed [The Detective Is Already Dead](https://anilist.co/anime/128712) (20:29, 09 October 2021)
 -   📺 Watched episode 11 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (20:29, 09 October 2021)
 -   📺 Completed [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (20:28, 09 October 2021)
 -   📺 Watched episode 11 of [Miss Kobayashi's Dragon Maid S](https://anilist.co/anime/107717) (20:28, 09 October 2021)
--   📖 Read chapter 25 - 26 of [Chainsaw Man](https://anilist.co/manga/105778) (09:33, 05 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
