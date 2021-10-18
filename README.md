@@ -31,11 +31,11 @@ You can probably find more [here](https://pxseu.com/about).
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 118 of [Naruto: Shippuden](https://anilist.co/anime/1735) (09:19, 18 October 2021)
 -   📺 Watched episode 1 - 2 of [takt op.Destiny](https://anilist.co/anime/131565) (15:49, 16 October 2021)
 -   📺 Watched episode 116 - 117 of [Naruto: Shippuden](https://anilist.co/anime/1735) (15:34, 16 October 2021)
 -   📖 Read chapter 1 of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/manga/114527) (09:52, 12 October 2021)
 -   📺 Completed [The Detective Is Already Dead](https://anilist.co/anime/128712) (20:29, 09 October 2021)
--   📺 Watched episode 11 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (20:29, 09 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
