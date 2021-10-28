@@ -1,21 +1,16 @@
 <a href="https://discord.com/users/338718840873811979"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/338718840873811979?bg=00000000" /></a>
 
-### 📋 About
+<a href="https://pxseu.com/"><img src="https://github.com/pxseu/pxseu/blob/senpai/assets/logo.png" height="110" /></a>
+<details>
+  <summary><b>📋 About</b></summary>
 
-I'm a bad developer who's strong in typescript. \
-You can probably find more [here](https://pxseu.com/about).
-<!--
-### 🦊Fox
+  I make stuff. \
+  Mostly with TypeScript. \
+  You can probably find more on my website.
 
-![](https://pxseu.loves.moe/2ELJv3at3.gif)
-
-### 📱 Contact
-
-[🌐 website](https://www.pxseu.com) \
-[📧 email](mailto:contact.pxseu@gmail.com)
--->
-
-<br />
+  [🌐 website](https://www.pxseu.com) \
+  [📧 email](mailto:contact.pxseu@gmail.com)
+</details>
 
 <details>
   <summary>📊 Some stats of me</summary>
@@ -23,8 +18,6 @@ You can probably find more [here](https://pxseu.com/about).
 ![My github stats!](https://github-readme-stats.vercel.app/api?username=pxseu&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true) \
 ![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=pxseu&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true) 
 </details>
-
-<br />
 
 <details>
   <summary>🌸 My recent AniList activity</summary>
