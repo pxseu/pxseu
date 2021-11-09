@@ -8,8 +8,8 @@
   Mostly with TypeScript. \
   You can probably find more on my website.
 
-  [🌐 website](https://www.pxseu.com) \
-  [📧 email](mailto:contact.pxseu@gmail.com)
+  [🌐 website](https://www.pxseu.com 'MY WEBSITEEEEEEEEEEEEEEEEE') \
+  [📧 email](mailto:me@pxseu.com 'MY EMAILLLLLLLLLL')
 </details>
 
 <details>
