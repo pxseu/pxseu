@@ -1,0 +1,10 @@
+{
+	"name": "@pxseu/prettier-config",
+	"version": "1.0.0",
+	"description": "My personal Prettier config",
+	"main": "index.json",
+	"repository": "git+https://github.com/pxseu/pxseu.git",
+	"author": "pxseu",
+	"license": "MIT",
+	"private": false
+}
