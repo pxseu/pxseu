@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 - 68 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (10:03, 29 November 2021)
 -   📺 Watched episode 4 of [takt op.Destiny](https://anilist.co/anime/131565) (19:28, 29 October 2021)
 -   📺 Watched episode 3 of [takt op.Destiny](https://anilist.co/anime/131565) (19:03, 22 October 2021)
 -   📖 Read chapter 27 - 30 of [Chainsaw Man](https://anilist.co/manga/105778) (08:38, 21 October 2021)
 -   📖 Read chapter 60 - 65 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (09:22, 20 October 2021)
--   📺 Watched episode 118 of [Naruto: Shippuden](https://anilist.co/anime/1735) (09:19, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
