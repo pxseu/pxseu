@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: AniList readme workflow
-        uses: pxseu/anilist-readme@034014bb9da09bf37282eb6bbb4d2aba94e621ad
+        uses: pxseu/anilist-readme@v1.3.4
         with:
           user_id: 889921
