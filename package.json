@@ -1,22 +1,23 @@
 {
-	"name": "pxseu",
-	"version": "1.0.0",
-	"description": "Ah the monorepo for my configs.",
-	"main": "",
-	"scripts": {
-		"test": "echo \"no test defined\""
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/pxseu/pxseu.git"
-	},
-	"author": "pxseu",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/pxseu/pxseu/issues"
-	},
-	"homepage": "https://github.com/pxseu/pxseu#readme",
-	"workspaces": [
-		"packages/*"
-	]
+  "name": "pxseu",
+  "version": "1.0.0",
+  "description": "Ah the monorepo for my configs.",
+  "main": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"no test defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxseu/pxseu.git"
+  },
+  "author": "pxseu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pxseu/pxseu/issues"
+  },
+  "homepage": "https://github.com/pxseu/pxseu#readme",
+  "workspaces": [
+    "packages/*"
+  ]
 }
