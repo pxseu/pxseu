@@ -1,6 +1,6 @@
 {
   "name": "@pxseu/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal ESLint config",
   "main": "index.js",
   "repository": "git+https://github.com/pxseu/pxseu.git",
