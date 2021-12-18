@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:12, 18 December 2021)
+-   📖 Read chapter 76 - 82 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:14, 18 December 2021)
 -   📖 Read chapter 66 - 68 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (10:03, 29 November 2021)
 -   📺 Watched episode 4 of [takt op.Destiny](https://anilist.co/anime/131565) (19:28, 29 October 2021)
 -   📺 Watched episode 3 of [takt op.Destiny](https://anilist.co/anime/131565) (19:03, 22 October 2021)
