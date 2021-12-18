@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Charlotte](https://anilist.co/anime/20997) (22:08, 18 December 2021)
 -   📖 Read chapter 76 - 87 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:54, 18 December 2021)
 -   📺 Plans to watch [GRIDMAN×DYNAZENON](https://anilist.co/anime/142684) (18:34, 18 December 2021)
 -   📖 Read chapter 66 - 68 of [Menhera Shoujo Kurumi-chan.](https://anilist.co/manga/118584) (10:03, 29 November 2021)
 -   📺 Watched episode 4 of [takt op.Destiny](https://anilist.co/anime/131565) (19:28, 29 October 2021)
--   📺 Watched episode 3 of [takt op.Destiny](https://anilist.co/anime/131565) (19:03, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
