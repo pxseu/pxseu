@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 89 - 177 of [Tokyo Revengers](https://anilist.co/manga/102988) (10:15, 22 December 2021)
+-   📖 Read chapter 89 - 203 of [Tokyo Revengers](https://anilist.co/manga/102988) (11:11, 22 December 2021)
 -   📖 Read chapter 88 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:00, 19 December 2021)
 -   📺 Watched episode 4 of [Charlotte](https://anilist.co/anime/20997) (14:40, 19 December 2021)
 -   📺 Watched episode 1 - 3 of [Charlotte](https://anilist.co/anime/20997) (22:08, 18 December 2021)
