@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (03:12, 26 December 2021)
+-   📖 Read chapter 1 - 12 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (04:16, 26 December 2021)
 -   📺 Watched episode 5 - 9 of [Charlotte](https://anilist.co/anime/20997) (21:16, 22 December 2021)
 -   📖 Read chapter 89 - 235 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:15, 22 December 2021)
 -   📖 Read chapter 88 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:00, 19 December 2021)
