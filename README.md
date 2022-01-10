@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (21:35, 09 January 2022)
 -   📺 Completed [Charlotte: Strong People](https://anilist.co/anime/21339) (21:50, 08 January 2022)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (21:37, 08 January 2022)
 -   📖 Read chapter 236 of [Tokyo Revengers](https://anilist.co/manga/102988) (16:50, 04 January 2022)
 -   📖 Completed [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (04:42, 26 December 2021)
--   📖 Read chapter 1 - 17 of [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://anilist.co/manga/97553) (04:42, 26 December 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
