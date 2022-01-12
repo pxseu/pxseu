@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 37 of [Chainsaw Man](https://anilist.co/manga/105778) (10:02, 12 January 2022)
+-   📖 Read chapter 34 - 42 of [Chainsaw Man](https://anilist.co/manga/105778) (10:48, 12 January 2022)
 -   📖 Plans to read [The World of Machida-kun](https://anilist.co/manga/97701) (21:36, 10 January 2022)
 -   📖 Read chapter 31 - 33 of [Chainsaw Man](https://anilist.co/manga/105778) (12:02, 10 January 2022)
 -   📺 Watched episode 1 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (21:35, 09 January 2022)
