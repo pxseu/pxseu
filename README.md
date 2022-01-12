@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 51 of [Chainsaw Man](https://anilist.co/manga/105778) (20:57, 12 January 2022)
+-   📖 Read chapter 34 - 58 of [Chainsaw Man](https://anilist.co/manga/105778) (22:13, 12 January 2022)
 -   📖 Read chapter 237 of [Tokyo Revengers](https://anilist.co/manga/102988) (16:14, 12 January 2022)
 -   📖 Plans to read [The World of Machida-kun](https://anilist.co/manga/97701) (21:36, 10 January 2022)
 -   📖 Read chapter 31 - 33 of [Chainsaw Man](https://anilist.co/manga/105778) (12:02, 10 January 2022)
