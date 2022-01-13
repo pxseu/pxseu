@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 69 of [Chainsaw Man](https://anilist.co/manga/105778) (23:12, 12 January 2022)
+-   📖 Plans to read [AMONG US](https://anilist.co/manga/143690) (00:17, 13 January 2022)
+-   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (00:08, 13 January 2022)
+-   📖 Read chapter 34 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (00:04, 13 January 2022)
 -   📖 Read chapter 237 of [Tokyo Revengers](https://anilist.co/manga/102988) (16:14, 12 January 2022)
 -   📖 Plans to read [The World of Machida-kun](https://anilist.co/manga/97701) (21:36, 10 January 2022)
--   📖 Read chapter 31 - 33 of [Chainsaw Man](https://anilist.co/manga/105778) (12:02, 10 January 2022)
--   📺 Watched episode 1 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (21:35, 09 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
