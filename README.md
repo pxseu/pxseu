@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:00, 17 January 2022)
 -   📖 Read chapter 36 - 37 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:14, 17 January 2022)
 -   📖 Read chapter 1 of [Horimiya](https://anilist.co/manga/72451) (15:45, 13 January 2022)
 -   📖 Plans to read [AMONG US](https://anilist.co/manga/143690) (00:17, 13 January 2022)
 -   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (00:08, 13 January 2022)
--   📖 Read chapter 34 - 97 of [Chainsaw Man](https://anilist.co/manga/105778) (00:04, 13 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
