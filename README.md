@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (23:05, 21 January 2022)
 -   📖 Read chapter 238 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:00, 18 January 2022)
 -   📺 Watched episode 2 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (15:00, 17 January 2022)
 -   📖 Read chapter 36 - 37 of [My Dress-Up Darling](https://anilist.co/manga/101583) (10:14, 17 January 2022)
 -   📖 Read chapter 1 of [Horimiya](https://anilist.co/manga/72451) (15:45, 13 January 2022)
--   📖 Plans to read [AMONG US](https://anilist.co/manga/143690) (00:17, 13 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
