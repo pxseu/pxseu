@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (12:04, 24 January 2022)
+-   📺 Watched episode 5 - 8 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (20:11, 24 January 2022)
 -   📺 Watched episode 3 - 4 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (23:34, 23 January 2022)
 -   📺 Watched episode 3 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (23:27, 23 January 2022)
 -   📺 Watched episode 1 - 2 of [Bungo Stray Dogs](https://anilist.co/anime/21311) (23:05, 21 January 2022)
