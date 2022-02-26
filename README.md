@@ -24,7 +24,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 242 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:21, 25 February 2022)
+-   📖 Read chapter 242 - 243 of [Tokyo Revengers](https://anilist.co/manga/102988) (01:14, 26 February 2022)
 -   📺 Watched episode 5 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (01:55, 14 February 2022)
 -   📺 Watched episode 6 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (22:02, 13 February 2022)
 -   📺 Watched episode 1 - 4 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (03:31, 13 February 2022)
