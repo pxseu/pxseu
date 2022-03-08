@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Monster](https://anilist.co/anime/19) (22:38, 08 March 2022)
 -   📖 Read chapter 245 of [Tokyo Revengers](https://anilist.co/manga/102988) (21:59, 08 March 2022)
 -   📖 Read chapter 2 - 5 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (13:29, 08 March 2022)
 -   📖 Read chapter 38 - 42 of [My Dress-Up Darling](https://anilist.co/manga/101583) (12:21, 07 March 2022)
 -   📖 Read chapter 2 - 3 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (09:39, 07 March 2022)
--   📺 Watched episode 9 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (21:52, 06 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
