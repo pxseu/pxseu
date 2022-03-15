@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 246 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:08, 15 March 2022)
 -   📖 Read chapter 7 - 8 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (14:39, 10 March 2022)
 -   📺 Watched episode 6 of [Bungo Stray Dogs 2](https://anilist.co/anime/21679) (11:32, 10 March 2022)
 -   📖 Read chapter 4 of [Real mo Tama ni wa Uso wo Tsuku](https://anilist.co/manga/113076) (06:39, 10 March 2022)
 -   📖 Read chapter 6 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (16:27, 09 March 2022)
--   📺 Watched episode 1 of [Monster](https://anilist.co/anime/19) (22:38, 08 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
