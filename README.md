@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 249 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:56, 12 April 2022)
 -   📖 Read chapter 248 of [Tokyo Revengers](https://anilist.co/manga/102988) (09:36, 06 April 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (20:25, 04 April 2022)
 -   📺 Watched episode 10 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (20:25, 04 April 2022)
 -   📖 Read chapter 247 of [Tokyo Revengers](https://anilist.co/manga/102988) (10:00, 29 March 2022)
--   📖 Completed [Sora kara Onnanoko ga!](https://anilist.co/manga/140764) (11:09, 20 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
