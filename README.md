@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (10:01, 21 April 2022)
 -   📖 Read chapter 250 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:42, 20 April 2022)
 -   📖 Read chapter 249 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:56, 12 April 2022)
 -   📖 Read chapter 248 of [Tokyo Revengers](https://anilist.co/manga/102988) (09:36, 06 April 2022)
 -   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (20:25, 04 April 2022)
--   📺 Watched episode 10 - 11 of [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (20:25, 04 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
