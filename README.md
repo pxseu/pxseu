@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 252 of [Tokyo Revengers](https://anilist.co/manga/102988) (00:29, 11 May 2022)
 -   📺 Watched episode 1 - 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (19:14, 30 April 2022)
 -   📖 Read chapter 251 of [Tokyo Revengers](https://anilist.co/manga/102988) (08:40, 27 April 2022)
 -   📖 Read chapter 9 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (10:01, 21 April 2022)
 -   📖 Read chapter 250 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:42, 20 April 2022)
--   📖 Read chapter 249 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:56, 12 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
