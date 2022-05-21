@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (12:32, 21 May 2022)
 -   📖 Read chapter 253 of [Tokyo Revengers](https://anilist.co/manga/102988) (07:50, 18 May 2022)
 -   📖 Read chapter 252 of [Tokyo Revengers](https://anilist.co/manga/102988) (00:29, 11 May 2022)
 -   📺 Watched episode 1 - 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (19:14, 30 April 2022)
 -   📖 Read chapter 251 of [Tokyo Revengers](https://anilist.co/manga/102988) (08:40, 27 April 2022)
--   📖 Read chapter 9 of [Kimi ga Shinu made Ato 100-nichi](https://anilist.co/manga/105111) (10:01, 21 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
