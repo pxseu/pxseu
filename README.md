@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 257 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:28, 18 June 2022)
 -   📖 Read chapter 255 - 256 of [Tokyo Revengers](https://anilist.co/manga/102988) (06:35, 08 June 2022)
 -   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (12:32, 21 May 2022)
 -   📖 Read chapter 253 of [Tokyo Revengers](https://anilist.co/manga/102988) (07:50, 18 May 2022)
 -   📖 Read chapter 252 of [Tokyo Revengers](https://anilist.co/manga/102988) (00:29, 11 May 2022)
--   📺 Watched episode 1 - 2 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (19:14, 30 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
