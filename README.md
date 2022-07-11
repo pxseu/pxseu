@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 - 6 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:26, 11 July 2022)
 -   📖 Read chapter 260 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:51, 06 July 2022)
 -   📖 Read chapter 258 - 259 of [Tokyo Revengers](https://anilist.co/manga/102988) (03:59, 30 June 2022)
 -   📖 Read chapter 257 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:28, 18 June 2022)
 -   📖 Read chapter 255 - 256 of [Tokyo Revengers](https://anilist.co/manga/102988) (06:35, 08 June 2022)
--   📺 Completed [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (12:32, 21 May 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
