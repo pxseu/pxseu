@@ -25,7 +25,7 @@
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📖 Read chapter 261 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:23, 12 July 2022)
--   📖 Read chapter 1 of [Chainsaw Man: Gakkou-hen](https://anilist.co/manga/127231) (16:55, 12 July 2022)
+-   📖 Read chapter 1 of [Chainsaw Man: Dai-2 Bu](https://anilist.co/manga/127231) (16:55, 12 July 2022)
 -   📖 Read chapter 5 - 6 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:26, 11 July 2022)
 -   📖 Read chapter 260 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:51, 06 July 2022)
 -   📖 Read chapter 258 - 259 of [Tokyo Revengers](https://anilist.co/manga/102988) (03:59, 30 June 2022)
