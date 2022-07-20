@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [Goodnight Punpun](https://anilist.co/manga/34632) (23:58, 19 July 2022)
+-   📖 Read chapter 99 of [Chainsaw Man](https://anilist.co/manga/105778) (23:42, 19 July 2022)
 -   📺 Watched episode 1 of [Call of the Night](https://anilist.co/anime/141391) (23:48, 12 July 2022)
 -   📖 Read chapter 261 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:23, 12 July 2022)
 -   📖 Read chapter 5 - 6 of [Sometimes Even Reality Is a Lie!](https://anilist.co/manga/113076) (16:26, 11 July 2022)
--   📖 Read chapter 260 of [Tokyo Revengers](https://anilist.co/manga/102988) (17:51, 06 July 2022)
--   📖 Read chapter 258 - 259 of [Tokyo Revengers](https://anilist.co/manga/102988) (03:59, 30 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
