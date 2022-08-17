@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (04:07, 17 August 2022)
 -   📖 Read chapter 101 of [Chainsaw Man](https://anilist.co/manga/105778) (02:27, 03 August 2022)
 -   📖 Read chapter 264 of [Tokyo Revengers](https://anilist.co/manga/102988) (02:24, 03 August 2022)
 -   📖 Read chapter 2 of [Goodnight Punpun](https://anilist.co/manga/34632) (23:58, 19 July 2022)
 -   📖 Read chapter 99 of [Chainsaw Man](https://anilist.co/manga/105778) (23:42, 19 July 2022)
--   📺 Watched episode 1 of [Call of the Night](https://anilist.co/anime/141391) (23:48, 12 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
