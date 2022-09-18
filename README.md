@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (16:29, 18 September 2022)
 -   📖 Read chapter 265 - 268 of [Tokyo Revengers](https://anilist.co/manga/102988) (07:58, 07 September 2022)
 -   📺 Completed [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (04:07, 17 August 2022)
 -   📖 Read chapter 101 of [Chainsaw Man](https://anilist.co/manga/105778) (02:27, 03 August 2022)
 -   📖 Read chapter 264 of [Tokyo Revengers](https://anilist.co/manga/102988) (02:24, 03 August 2022)
--   📖 Read chapter 2 of [Goodnight Punpun](https://anilist.co/manga/34632) (23:58, 19 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
