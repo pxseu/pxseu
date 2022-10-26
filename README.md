@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 106 of [Chainsaw Man](https://anilist.co/manga/105778) (06:24, 26 October 2022)
 -   📖 Read chapter 273 - 274 of [Tokyo Revengers](https://anilist.co/manga/102988) (07:31, 24 October 2022)
 -   📖 Read chapter 272 of [Tokyo Revengers](https://anilist.co/manga/102988) (13:32, 14 October 2022)
 -   📖 Read chapter 102 - 105 of [Chainsaw Man](https://anilist.co/manga/105778) (13:31, 14 October 2022)
 -   📖 Read chapter 269 - 271 of [Tokyo Revengers](https://anilist.co/manga/102988) (12:45, 28 September 2022)
--   📺 Watched episode 3 of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (16:29, 18 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
