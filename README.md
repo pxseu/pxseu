@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 109 of [Chainsaw Man](https://anilist.co/manga/105778) (16:24 03 November 2022)
 -   📖 Read chapter 276 of [Tokyo Revengers](https://anilist.co/manga/102988) (10:10 03 November 2022)
 -   📖 Completed [Ruri Dragon](https://anilist.co/manga/127750) (07:43 28 October 2022)
 -   📖 Completed [Look Back](https://anilist.co/manga/136807) (07:23 28 October 2022)
 -   📖 Read chapter 43 - 44 of [My Dress-Up Darling](https://anilist.co/manga/101583) (17:27 26 October 2022)
--   📖 Read chapter 275 of [Tokyo Revengers](https://anilist.co/manga/102988) (06:44 26 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
