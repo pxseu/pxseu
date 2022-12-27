@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Violet Evergarden](https://anilist.co/anime/21827) (00:57 27 December 2022)
 -   📖 Read chapter 113 of [Chainsaw Man](https://anilist.co/manga/105778) (13:16 07 December 2022)
 -   📖 Completed [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
 -   📖 Read chapter 277 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
 -   📖 Read chapter 110 of [Chainsaw Man](https://anilist.co/manga/105778) (10:50 09 November 2022)
--   📖 Read chapter 45 - 46 of [My Dress-Up Darling](https://anilist.co/manga/101583) (08:47 04 November 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
