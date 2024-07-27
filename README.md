@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 6 of [Violet Evergarden](https://anilist.co/anime/21827) (01:06 27 December 2022)
--   📖 Read chapter 113 of [Chainsaw Man](https://anilist.co/manga/105778) (13:16 07 December 2022)
--   📖 Completed [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
--   📖 Read chapter 277 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:13 15 November 2022)
--   📖 Read chapter 110 of [Chainsaw Man](https://anilist.co/manga/105778) (10:50 09 November 2022)
+-   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (21:50 05 November 2023)
+-   📖 Read chapter 2 - 3 of [Kagurabachi](https://anilist.co/manga/169355) (14:34 03 October 2023)
+-   📖 Read chapter 1 of [Kagurabachi](https://anilist.co/manga/169355) (22:33 20 September 2023)
+-   📺 Completed [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190) (04:07 25 August 2023)
+-   📺 Completed [Violet Evergarden](https://anilist.co/anime/21827) (02:35 25 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
