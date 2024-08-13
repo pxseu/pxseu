@@ -24,11 +24,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 4 of [Kagurabachi](https://anilist.co/manga/169355) (17:25 13 August 2024)
 -   📺 Completed [Big Mac® to, Susume!](https://anilist.co/anime/166058) (16:10 11 August 2024)
 -   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (21:50 05 November 2023)
 -   📖 Read chapter 2 - 3 of [Kagurabachi](https://anilist.co/manga/169355) (14:34 03 October 2023)
 -   📖 Read chapter 1 of [Kagurabachi](https://anilist.co/manga/169355) (22:33 20 September 2023)
--   📺 Completed [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190) (04:07 25 August 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
