@@ -34,7 +34,3 @@
 </details>
 
 
-
-![Hits](https://hits-app.vercel.app/hits?url=https://github.com/pxseu&label=views&bgRight=ff69b4)
-
-
