@@ -1,12 +1,11 @@
-<a href="https://discord.com/users/338718840873811979"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/338718840873811979?bg=00000000" /></a>
-
-<a href="https://pxseu.com/"><img src="./assets/logo.png" height="110" /></a>
+<a href="https://pxseu.com/"><img align="right" src="./assets/logo.png" height="110" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 
   I make stuff. \
   Mostly with TypeScript. \
-  You can probably find more on my website.
+  You can probably find more on my website. 
+  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/338718840873811979?bg=00000000" /></a>
 
   [🌐 website](https://www.pxseu.com 'MY WEBSITEEEEEEEEEEEEEEEEE') \
   [📧 email](mailto:me@pxseu.com 'MY EMAILLLLLLLLLL')
