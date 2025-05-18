@@ -1,4 +1,4 @@
-<a href="https://pxseu.com/"><img align="right" src="./assets/logo.png" height="110" /></a>
+<a href="https://pxseu.com/" target="_blank" rel="noopener noreferrer"><img align="right" src="./assets/logo.png" height="110" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 
