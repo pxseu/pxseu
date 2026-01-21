@@ -23,7 +23,7 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 117 - 124 of [Chainsaw Man](https://anilist.co/manga/105778) (02:23 21 January 2026)
+-   📖 Read chapter 117 - 138 of [Chainsaw Man](https://anilist.co/manga/105778) (03:29 21 January 2026)
 -   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (12:56 01 November 2025)
 -   📖 Completed [The Wife I Loved Dearly](https://anilist.co/manga/139540) (10:07 24 August 2024)
 -   📖 Read chapter 114 - 116 of [Chainsaw Man](https://anilist.co/manga/105778) (06:17 15 August 2024)
