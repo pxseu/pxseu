@@ -23,11 +23,11 @@
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 144 - 220 of [Chainsaw Man](https://anilist.co/manga/105778) (14:24 24 March 2026)
+-   📖 Completed [Chainsaw Man](https://anilist.co/manga/105778) (15:14 24 March 2026)
+-   📖 Read chapter 144 - 231 of [Chainsaw Man](https://anilist.co/manga/105778) (14:40 24 March 2026)
 -   📖 Read chapter 141 - 143 of [Chainsaw Man](https://anilist.co/manga/105778) (02:06 25 January 2026)
 -   📖 Read chapter 117 - 140 of [Chainsaw Man](https://anilist.co/manga/105778) (03:37 21 January 2026)
 -   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (12:56 01 November 2025)
--   📖 Completed [The Wife I Loved Dearly](https://anilist.co/manga/139540) (10:07 24 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
